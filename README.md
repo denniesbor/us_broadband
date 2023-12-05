@@ -14,7 +14,7 @@ This project investigates the broadband deployment in the US, focusing on identi
 4. Download the dataset from [zenodo](https://zenodo.org/records/10258667/files/broadband.tar?download=1).
 5. Unzip the downloaded files into the 'data' directory.
 6. Set up the Python environment by running `conda env create -f environment.yml` in the terminal. This will install all necessary dependencies.
-7. Activate the newly created environment using `conda activate [environment-name]`.
+7. Activate the newly created environment using `conda activate us-broadband`.
 8. Navigate to the 'notebook' directory.
 9. Run `jupyter notebook` to start the Jupyter Notebook and open the `data_analysis` notebook for analysis.
 
